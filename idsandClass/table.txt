@@ -1,0 +1,15 @@
+             CSS   PRIORITY RANKING
+
+
+
+1.Inline has more priorty   ---1000
+
+
+2.#ID                        ---100                           
+
+
+3..Class                      ---10      
+
+
+
+4.Element Styling             ---1       

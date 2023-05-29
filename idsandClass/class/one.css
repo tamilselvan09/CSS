@@ -1,0 +1,15 @@
+.abc{
+    background-color: aliceblue;
+    font-size: larger;
+    font-family: 'Courier New', Courier, monospace;
+    font-style: normal;
+}
+
+
+
+.lyrics{
+    background-color: aquamarine;
+    font-size: medium;
+    font-family: cursive;
+    font-style: italic;
+}
