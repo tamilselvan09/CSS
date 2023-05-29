@@ -1,0 +1,31 @@
+Universal Selector 
+*{
+    
+}
+
+
+Grouping Selector
+h1 {
+    background-color: aliceblue;
+    font-size: medium;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-weight: 400;
+}
+
+h2{
+
+}
+
+h3{
+
+} 
+
+class Selector
+.class {
+
+}
+id Selector
+
+#part1 {
+
+}
